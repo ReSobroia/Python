@@ -17,7 +17,7 @@ print(f"{num1} > {num2}: {num1 > num2}")    # Maior
 print(f"{num1} <= {num2}: {num1 <= num2}")  # Menor ou igual
 print(f"{num1} >= {num2}: {num1 >= num2}")  # Maior ou igual
 
-# Comparando múltiplos números
+# Comparando múltiplos números QW
 print("\n--- Comparar 3 números ---")
 a, b, c = 5, 15, 10
 
